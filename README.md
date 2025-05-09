@@ -13,9 +13,8 @@ Built using **Python**, **Streamlit**, and **Machine Learning** techniques.
 - 🌟 **Risk Classification** (Low, Medium, High) per state based on severity indices
 - 📈 **Time-Series Forecasting** for opioid deaths
 - 🤖 **Interactive Chatbot** for conversational queries about opioid data
-- 🔍 **Anomaly Detection** for unusual spikes in opioid deaths
-- 🧠 **Unsupervised Clustering** of states based on risk factors
-- 💬 **Ask anything** about opioid trends, risks, or states directly!
+- 🔍 **Anomaly Detection** for unusual spikes in opioid deaths.
+- 💬 **Ask** about opioid trends, risks, or states directly!
 
 ---
 
